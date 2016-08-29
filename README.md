@@ -2,7 +2,7 @@
 ## 本地运行
 
 ```
-$ git 暂无
+$ git clone https://github.com/jkhmnk/walife.git
 $ npm install
 $ npm dev
 ```
